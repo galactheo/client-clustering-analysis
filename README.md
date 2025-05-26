@@ -1,7 +1,7 @@
 # Customer Segmentation with K-Means  
 ## Grouping customers based on spending and credit behavior
 
-This project applies the K-Means algorithm to a credit card customer dataset in order to segment individuals according to their spending, payment habits, credit usage, and engagement. This segmentation helps guide business strategies for marketing, retention, and revenue growth.
+This project applies the K-Means algorithm to a credit card customer dataset in order to segment individuals according to their spending, payment habits, credit usage and engagement. This segmentation helps guide business strategies for marketing, retention, and revenue growth.
 
 ---
 
